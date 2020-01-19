@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TokenLab Films</string>
+    <string name="overview">Overview</string>
+    <string name="status">Status:</string>
+    <string name="internetConnection">Internet Connection</string>
+    <string name="noInternetMessage">Cannot download the data. Please, check your connection!</string>
+    <string name="retryMessage">Retry</string>
+    <string name="destroyApp">Close App</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

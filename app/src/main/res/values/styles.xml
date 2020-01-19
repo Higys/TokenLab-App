@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#D6D3D3</item>
+        <item name="colorControlActivated">#ffbc00</item>
+    </style>
+
+</resources>
